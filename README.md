@@ -4,7 +4,7 @@ El objetivo de este repositorio es recordar cómo programar y volver a usar las 
 Ejercicio 1:
 Escribir un programa en Java que imprima por pantalla la frase “Hola, ya se
 imprimir frases”.
-![image](https://github.com/user-attachments/assets/d46f2f56-35db-464f-8b36-12d4787c7562)
+![image](https://github.com/user-attachments/assets/65ef2858-a2b4-4d2f-a170-344c38f4af94)
 
 Ejercicio 2:
 Escribir un programa en Java que imprima por pantalla un número entero, por
