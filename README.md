@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76f84fd5-f856-4df9-bcba-a4b3a0957824)Ejercicios de Programación
+Ejercicios de Programación
 El objetivo de este repositorio es recordar cómo programar y volver a usar las habilidades adquiridas durante el primer curso.
 
 Ejercicio 1:
