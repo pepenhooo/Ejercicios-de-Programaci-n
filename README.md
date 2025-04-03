@@ -41,35 +41,43 @@ Escribir un programa en Java que imprima por pantalla la división de 1234 entre
 
 Ejercicio 8:
 Escribir un programa en Java que imprima por pantalla los números del 1 al 3.
+![image](https://github.com/user-attachments/assets/f31479b1-56cd-4d6e-a6ff-991e71315998)
 
 
 Ejercicio 9:
 Escribir un programa en Java que imprima por pantalla los números del 1 al 9.
+![image](https://github.com/user-attachments/assets/d295c2b1-8c43-47d8-ac0a-fba64834f132)
 
 
 Ejercicio 10:
 Escribir un programa en Java que imprima por pantalla los números del 1 al 10.000.
 Conveniente usar bucles.
+![image](https://github.com/user-attachments/assets/736a8bbc-fc02-4bbb-8c3a-5b0f9533e912)
 
 
 Ejercicio 11:
 Escribir un programa en Java que imprima por pantalla los números del 5 al 10.
+![image](https://github.com/user-attachments/assets/dded5333-a017-4e33-ad79-8fdcebd7bec5)
 
 
 Ejercicio 12:
 Escribir un programa en Java que imprima por pantalla los números del 5 al 15.
+![image](https://github.com/user-attachments/assets/8f75c977-e22a-4c70-b25b-be8edd0a1428)
 
 
 Ejercicio 13:
 Escribir un programa en Java que imprima por pantalla los números del 5 al 15.000.
 Conveniente usar bucles.
+![image](https://github.com/user-attachments/assets/512b5daf-9e3b-4dda-8d81-04bd67e6885d)
 
 
 Ejercicio 14:
 Escribir un programa en Java que imprima 200 veces la palabra “hola”. Nota: en el
 código fuente que usted escriba debe figurar solamente una vez la palabra “hola”.
+![image](https://github.com/user-attachments/assets/ff6550f8-edd2-4ddf-a571-023b1f9a418e)
 
 
 Ejercicio 15:
 Escribir un programa en Java que imprima por pantalla los cuadrados de los 30
 primeros números naturales.
+![image](https://github.com/user-attachments/assets/6c0b6ff5-f5fc-45c2-a2f0-21e577a45ae0)
